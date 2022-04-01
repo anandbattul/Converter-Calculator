@@ -1,10 +1,10 @@
 #container {
     background-color: antiquewhite;
-    height: 120%;
+    height: 80%;
 }
 h1 {
     color: red;
-    font-size: 120%;
+    font-size: 250%;
     padding: 5%;
     margin: 0%;
 }
@@ -12,21 +12,21 @@ h1 {
     color: blue;
     font-size: 150%;
 }
-#btn {
-    width: 10%;
-    height: 7%;
-    border-radius: 18%;
-    background-color: cadetblue;
-}
+/* #btn { */
+    /* width: 10%; */
+    /* height: 7%; */
+    /* border-radius: 18%; */
+    /* background-color: cadetblue; */
+/* } */
 #secd {
-    width: 28%;
-    height: 7%;
+    width: 48%;
+    height: 10%;
     text-align: center;
     justify-items: center;
 }
 body {
     text-align: center;
     align-items: center;
-    margin: 10%;
-    margin-bottom: 15%;
+    margin: 10vh;
+    /* margin-bottom: 15%; */
 }

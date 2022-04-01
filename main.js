@@ -19,8 +19,8 @@ function cal() {
             years = days / 365
             days = days % 365
         }
-        document.getElementById("dis").innerHTML = ("Years:" + parseInt(years) + "&nbsp " + "Days:" + parseInt(days) + "&nbsp " + "Hours:" + parseInt(hr) + "&nbsp " + 
-"Minunts:" + parseInt(min) + "&nbsp " + "Seconds:" + (sec))
+        document.getElementById("dis").innerHTML = ("Years:" + parseInt(years) + "&nbsp " + "Days:" + parseInt(days) + "&nbsp " + "Hours:" + parseInt(hr) + "&nbsp " +
+            "Minunts:" + parseInt(min) + "&nbsp " + "Seconds:" + (sec))
         document.getElementById("dis2").innerHTML = "Thank You"
     }
 }
